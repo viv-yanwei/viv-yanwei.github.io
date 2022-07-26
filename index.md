@@ -1,4 +1,4 @@
-## Welcome to Vivyan's World of Wonders!
+# Welcome to Vivyan's World of Wonders!
 
 I am an astrophysicist and observe the night sky for a living. Among all the wonders created by the universe, I am most interested in Active Galactic Nuclei (AGNs), a facinating population of active massive blackholes. They give us clues about the evolution of blackholes as well as their host galaxies. 
 
@@ -6,36 +6,36 @@ I am currently working as a postdoc at Penn State, studying AGNs with large X-ra
 
 # Astronomy Research
 
+![xray](https://www.nustar.caltech.edu/system/media_files/binaries/20/small/x-ray_comparison.jpg?1391213257)
+
+### 1. Characterize AGNs with X-ray specral analysis and SED fits in large X-ray surveys
+
+I obtained X-ray spectra of ~10,200 sources in three catalog (WCDFS, ELAIS1, LSS) and conduct systematic spectral analysis with comprehensive “torus” model and implement different statistical approaches (Bayesian) to precisely estimate AGN characteristics (e.g., NH, photon index, covering factor). I select AGN samples with different characteristics for future follow-up observations and compare the samples with galactic features obtained from the SED fits (e.g., star-forming rate, stellar mass) by XCIGAL, to obtain the representative to quantitatively discuss the co-evolution between AGNs and their host galaxies.
 
 
+### 2. Connect supermassive blackholes to their hosts with [Chandra](https://chandra.harvard.edu/20th/) catalogs (CDWFS & CDFS 7Ms)
 
-### XMM-SEVS
-![XMM-Newton]([src](https://xmm-tools.cosmos.esa.int/external/xmm_science/gallery/images/XMM.jpg))
-
-
-### Chandra Deep Wide Field Survey & Chandra Deep Field South 7
-![Chandra](https://chandra.harvard.edu/20th/)
 
 We characterize AGN X-ray obscuration with AGN properties and host galactic activity like star forming in multiple bands. By extracting and stacking spectra of sources in the CDFS 7Ms catalog, this large sample of AGNs give us a clue on the origin of the obscuration.
 
-### Uncover hidden monsters (NuSTAR observations of heavily obscured quasars selected by WISE)
-![Image](src)
-
-I observed four heavily obscured quasars via NuSTAR and Keck. They were selected from a large population of obscured quasars, based on mid-IR photometry from WISE and SDSS. We found heavy high obscuration in X-ray images, and also unexpected large absorption in the host galactic environment.
+### 3. Uncover hidden monsters with [NuSTAR](https://www.nustar.caltech.edu/) and optical observations ([Keck](https://www.keckobservatory.org/) and [SALT](https://www.salt.ac.za/))
 
 
-### Polar Astronomy
-![Image](src)
 
-During my undergraduate, I studied the relationship of star formation rate, dust extinction, metallicity with internal galaxy dynamics. Some recent works suggest there is inconsistency with these measurements in different regions of M51. By analyzing spectra at different regions of the face-on galaxy. I studied how different physical mechanisms could explain such observational discrepancies.
+Four heavily obscured quasars are observed using NuSTAR and Keck. They were selected from a large population of obscured quasars, based on mid-IR photometry from WISE and SDSS. We found heavy high obscuration in X-ray images, and also unexpected large absorption in the host galactic environment.
 
 
-### Seeing Analysis of Chinese Antarctic Research Station
-![Image](src)
+### 4. The two-dimensional properties of [M51](https://en.wikipedia.org/wiki/Whirlpool_Galaxy)
 
-During my internship at the Polar Research Institute of China, I built measured equipment based on electric bridge to avoid exposing the whole equipment in cold weather. Estimated the location for Chinese future Antarctic Research Station Kunlun and its potential future value.
 
-# PROFESSIONAL ACTIVITIES
+I studied the relationship of star formation rate, dust extinction, metallicity with internal galaxy dynamics. Some recent works suggest there is inconsistency with these measurements in different regions of M51. By analyzing spectra at different regions of the face-on galaxy. I studied how different physical mechanisms could explain such observational discrepancies.
+
+
+### 5. Seeing analysis of [Chinese Antarctic Research Station]()
+
+During my internship at the Polar Research Institute of China, I built measured equipment based on electric bridge to avoid exposing the whole equipment in cold weather. Estimated the location for Chinese future [Antarctic Research Station Kunlun](https://en.wikipedia.org/wiki/Kunlun_Station_(Antarctica)) and its potential future value.
+
+# Professional Activities
 
 ## Conferences (with oral presentation)
 
@@ -53,8 +53,8 @@ During my internship at the Polar Research Institute of China, I built measured 
 
 
 ## Invited talks (Hunting for the Hidden Monsters of the Universe)
-• University of Cape Town, Cape Town, South Africa
-• University of Western Cape, Cape Town, South Africa
+- University of Cape Town, Cape Town, South Africa
+- University of Western Cape, Cape Town, South Africa
 
 ## Observed/purposed telecopes
 
@@ -67,12 +67,6 @@ During my internship at the Polar Research Institute of China, I built measured 
 - MDM Observatory (optical)
 - 2.16-m Telescope, Xinglong Observing Station of National Astronomical Observatories (optical)
 - Purple Mountain Observatory
-- • 4109-4110 XMM-Newton Target of Opportunity
-• Principal Investigator for submitted Chandra Cycle 24 proposal
-• 1.0m Telescope, SAAO, Sutherland, South Africa
-• MDM observatory, Kitt Peak, Tucson, AZ, USA
-• Xuyi Observation Station, Purple Mountain Observatory, China
-• 2.16m Telescope, NAOC-Xinglong, China
 
 
 
@@ -97,11 +91,14 @@ During my internship at the Polar Research Institute of China, I built measured 
 - Teaching facilitator at Dartmouth Center for the Advancement of Learning
 
 
-## AWARDS
-- Dartmouth Commencement Marshal & Investiture PhD student speaker Dartmouth Fellowship
+## Awards
+- Dartmouth 2021 Commencement Marshal
+- Dartmouth 2021 Investiture PhD student speaker
+- Dartmouth Fellowship
 - Dartmouth Spring Graduate Student Council Travel Grant
 - American Astronomy Society International Travel Grants 
-- Dartmouth 3-Minute Research Competition 1st & People's Choice Awards for Fundamental Astronomical Research
+- -Minute Research Competition 1st for Fundamental Astronomical Research
+- People's Choice Awards for Fundamental Astronomical Research
 - Scholarship of National Astronomical Observatories
 - Scholarship for Undergraduate Excellence at USTC (top 10%) 
 - Part-work and Part-study Program Scholarship at USTC Scholarship of Freshman Excellence at USTC
@@ -114,11 +111,11 @@ During my internship at the Polar Research Institute of China, I built measured 
 
 
 - Movie & TV series subtitle translator of ZiMuZuTA 
-- Vice-president of CSSA (Chinese Students and Scholars Association) at Dartmouth 2017-2018
-- Graduate student liaison of STEPS (Science, Technology and Engineering Policy Society) at Dartmouth 2017-20182017 
+- Vice-president of CSSA (Chinese Students and Scholars Association) at Dartmouth
+- Graduate student liaison of STEPS (Science, Technology and Engineering Policy Society) at Dartmouth
 - Iron Chef Competition presenter & dessert maker & 1st winning team
-- Volunteer at Upper Valley Haven 2016-2018
-- Volunteer at LISTEN thrift store in 2017-2018
+- Volunteer at Upper Valley Haven
+- Volunteer at LISTEN thrift store
 - Board member of OneDartmout
 - Vice-chairman of the Association of Psychological Counselor at USTCS
 - Student assistant at Psychological Counselor of USTC
@@ -130,13 +127,5 @@ Two things fill the mind with ever new and increasing admiration and awe, the of
 
 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and 
-
-```markdown
-Syntax highlighted code block
-
-
-```
+**Bold** and _Italic_ and
 
