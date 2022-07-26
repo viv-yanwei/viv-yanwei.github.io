@@ -8,8 +8,6 @@ I am currently working as a postdoc at Penn State, studying AGNs with large X-ra
 
 
 
-```markdown
-Syntax highlighted code block
 
 ## XMM-SEVS
 ![Image](src)
@@ -63,5 +61,10 @@ Two things fill the mind with ever new and increasing admiration and awe, the of
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and 
+
+```markdown
+Syntax highlighted code block
+
+
 ```
 
