@@ -1,19 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to Vivyan's World of Wonders!
 
-You can use the [editor on GitHub](https://github.com/viv-yanwei/viv-yanwei.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am an astrophysicist and observe the night sky for a living. Among all the wonders created by the universe, I am most interested in Active Galactic Nuclei (AGNs), a facinating population of active massive blackholes. They give us clues about the evolution of blackholes as well as their host galaxies. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently working as a postdoc at Penn State, studying AGNs with large X-ray surveys ([XMM-SERVE](https://personal.psu.edu/wnb3/xmmservs/xmmservs.html)). Before coming to Penn State, I got my PhD in Physics & Astronomy at Dartmouth College and my B.S. degree from School of the Gifted Young at University of Science and Technology of China. I love music, movies, writing and classical literature. I also spend most weekends on outdoor activities as well, such as hiking, biking and horse-back riding.
 
-### Markdown
+### Astronomy Research
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# XMM-SEVS
+![Image](src)
+
+
+## Chandra
+![Image](src)
+
+### NuSTAR
+![Image](src)
 
 - Bulleted
 - List
@@ -23,15 +29,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and 
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/viv-yanwei/viv-yanwei.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
